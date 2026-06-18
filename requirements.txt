@@ -3,6 +3,6 @@ requests
 streamlit
 requests
 folium
-math
+git
 time
 streamlit_folium
